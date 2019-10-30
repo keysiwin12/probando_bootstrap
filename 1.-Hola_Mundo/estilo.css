@@ -1,0 +1,14 @@
+.contenedor {
+    background-color:aquamarine;
+    padding: 100px;
+    color :white;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.contenedor2 {
+    background-color:purple;
+    padding: 100px;
+    color :white;
+    font-size: 50px;
+}
